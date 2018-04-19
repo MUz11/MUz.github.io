@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="220" column="3" lean-forward="false" selection-start-line="220" selection-start-column="3" selection-end-line="220" selection-end-column="3" />
+            <state relative-caret-position="0">
+              <caret line="184" column="10" lean-forward="true" selection-start-line="184" selection-start-column="10" selection-end-line="184" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -136,8 +136,8 @@
       <file leaf-file-name="loigstye.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loigstye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="91" lean-forward="true" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
+            <state relative-caret-position="272">
+              <caret line="17" column="81" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -149,12 +149,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
+      <file leaf-file-name="logoutstye.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logoutstye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="476">
+              <caret line="38" column="61" lean-forward="true" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1388#1394#0" expanded="true" />
+                <element signature="e#1407#1413#0" expanded="true" />
+                <element signature="e#1426#1432#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,6 +198,7 @@
         <option value="$PROJECT_DIR$/nav-login.html" />
         <option value="$PROJECT_DIR$/loigstye.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/logoutstye.html" />
       </list>
     </option>
   </component>
@@ -200,7 +208,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="193" />
     <option name="y" value="71" />
     <option name="width" value="1400" />
@@ -229,6 +237,11 @@
             <path>
               <item name="muz11.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="muz11.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="muz11.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="muz11.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,26 +276,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.logoutstye.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/muz11.github.io/index.html" />
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myproject/index.html" />
+    <configuration name="logoutstye.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/muz11.github.io/logoutstye.html" />
     <configuration name="loigstye.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/muz11.github.io/loigstye.html" />
     <configuration name="oisi_hl.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myproject/data_drink/oisi_hl.html" />
     <configuration name="register.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myproject/register.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.oisi_hl.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.loigstye.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.oisi_hl.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.loigstye.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.logoutstye.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.logoutstye.html" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.loigstye.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.oisi_hl.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.oisi_hl.html" />
       </list>
     </recent_temporary>
   </component>
@@ -307,15 +320,15 @@
       <workItem from="1524041794388" duration="17036000" />
       <workItem from="1524109135720" duration="2954000" />
       <workItem from="1524123524186" duration="3544000" />
-      <workItem from="1524133499332" duration="1488000" />
+      <workItem from="1524133499332" duration="2674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72885000" />
+    <option name="totallyTimeSpent" value="74071000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -367,14 +380,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data_drink/lactasoy_sw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_snack/pokky.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -770,7 +775,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -860,24 +865,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loigstye.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="91" lean-forward="true" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="220" column="3" lean-forward="false" selection-start-line="220" selection-start-column="3" selection-end-line="220" selection-end-column="3" />
+        <state relative-caret-position="0">
+          <caret line="184" column="10" lean-forward="true" selection-start-line="184" selection-start-column="10" selection-end-line="184" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -896,6 +887,35 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loigstye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="81" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logoutstye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="38" column="61" lean-forward="true" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1388#1394#0" expanded="true" />
+            <element signature="e#1407#1413#0" expanded="true" />
+            <element signature="e#1426#1432#0" expanded="true" />
           </folding>
         </state>
       </provider>
