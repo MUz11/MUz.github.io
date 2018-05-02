@@ -7,11 +7,9 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-    <title >Doven ฝากหิ้วสินค้า</title>
+    <title>Doven ฝากหิ้วสินค้า</title>
 </head>
 <body>
-
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" >
     <img src="../image/logomini.png" width="175"/>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,23 +19,23 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="../index.html" style="font-size: 20px"> Home </a>
+                <a class="nav-link" href="./indexout.html" style="font-size: 20px"> Home </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../listselllogin.html" style="font-size: 20px">Delivery</a>
+                <a class="nav-link" href="./listselllogin.html" style="font-size: 20px">Delivery</a>
             </li>
             &nbsp;
             &nbsp;
             &nbsp;
             <li class="nav-item">
                 <div class="dropdown">
-                    <img src="../image/c2buy.jpg"  width="40percent"/>
+                    <img src="../image/ip.jpg"  width="40percent"/>
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         User
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" >
-                        <a class="dropdown-item" href="#">Profile</a>
-                        <a class="dropdown-item" href="../login/editprofile.html">Edit Profile</a>
+                        <a class="dropdown-item" href="./profile.html">Profile</a>
+                        <a class="dropdown-item" href="./editprofile.html">Edit Profile</a>
                         <a class="dropdown-item" href="../index.html">Log out</a>
                     </div>
                 </div>
@@ -50,6 +48,62 @@
         </form>
     </div>
 </nav>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+
+        </div>
+        <div class="col-md-8">
+            <h2>Edit Profile</h2>
+            <br>
+            <form>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="inputfistname">Fist name</label>
+                        <input type="text" class="form-control" id="inputfistname" placeholder="Fist name">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="inputlastname">Last name</label>
+                        <input type="text" class="form-control" id="inputlastname" placeholder="Last name">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inputphonenumber">Phone number</label>
+                    <input type="number" class="form-control" id="inputphonenumber" placeholder="Phone number">
+                </div>
+                <div class="form-group">
+                    <label for="inputemail4">E-mail</label>
+                    <input type="email" class="form-control" id="inputemail4" placeholder="E-mail">
+                </div>
+                <div class="form-group">
+                    <label for="inputconfirmemail">Confirm E-mail</label>
+                    <input type="email" class="form-control" id="inputconfirmemail" placeholder="Confirm E-mail">
+                </div>
+                <div class="form-group">
+                    <label for="inputpassword">Password</label>
+                    <input type="password" class="form-control" id="inputpassword" placeholder="Password">
+                </div>
+                <div class="form-group">
+                    <label for="inputconfirmpassword">Confirm password</label>
+                    <input type="password" class="form-control" id="inputconfirmpassword" placeholder="Confirm password">
+
+                </div>
+                <div class="form-group">
+                    <a class="btn btn-primary" href="profile.html">Save</a>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-2">
+        </div>
+    </div>
+</div>
+
+
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
